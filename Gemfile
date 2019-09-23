@@ -44,6 +44,7 @@ gem 'material_icons'
 gem 'redis'
 gem 'sidekiq'
 
+
 group :test do
   gem "factory_bot_rails"
   gem "ffaker"
